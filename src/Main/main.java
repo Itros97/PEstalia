@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-package Main;
-
-public class main {
-
-	public static void main(String[] args) {
-
-	}
-
-}
-=======
 package Main;
 
 public class main {
@@ -19,4 +8,3 @@ public class main {
 
 }
 
->>>>>>> branch 'itros' of https://github.com/Itros97/PEstalia.git
