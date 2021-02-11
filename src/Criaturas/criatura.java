@@ -5,4 +5,5 @@ public class criatura {
     int id;
     int hp;
     int type;
+    int a;
 }
